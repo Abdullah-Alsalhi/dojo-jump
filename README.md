@@ -32,5 +32,7 @@ coming soon once exam is over :D
 
 #### Contibutors
 
-- Chandradeo Arya
-- Abdulaziz Binmozal
+
+# Reference
+- Chandradeo Arya : https://github.com/chandradeoarya
+
